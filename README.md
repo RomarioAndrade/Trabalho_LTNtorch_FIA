@@ -8,6 +8,7 @@
 * Gabriel Menezes Rodrigues
 * Joshua Tadeu Bastos Pereira
 * Romário Roberto de Pádua Andrade
+* Fernando Teles dos Reis Neto
 <!-- adicione aqui os demais integrantes -->
 
 ---
